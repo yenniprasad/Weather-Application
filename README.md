@@ -7,7 +7,7 @@ This project is a dynamic web application that allows users to retrieve real-tim
 
 - **Real-Time Weather Data:** Fetches the latest weather data for any city using the OpenWeatherMap API.
 
-![image](https://github.com/user-attachments/assets/6fc2d1e8-3f91-469a-8774-c61717dcd8f0)
+![Screenshot 2024-10-24 155002](https://github.com/user-attachments/assets/38b501fc-0263-40da-8689-7612059d8f51)
 - **5-Day Forecast:** Displays a forecast for the next five days, showing weather trends for better planning.
   
 ![image](https://github.com/user-attachments/assets/f62b3a60-0842-4544-b41e-51980e5ec380)
