@@ -48,7 +48,7 @@ Ensure that the following tools are installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Tereshaa/Weather-App.git"
+   git clone " https://yenniprasad.github.io/Weather-Application/"
    ```
 2. **Install Dependencies**
    If you are running the app locally and need to install any dependencies:
