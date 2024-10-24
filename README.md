@@ -14,11 +14,12 @@ This project is a dynamic web application that allows users to retrieve real-tim
 
 - **Temperature Unit Conversion:** Users can switch between Celsius and Fahrenheit based on their preference.
   
-![image](https://github.com/user-attachments/assets/a568319d-242b-4953-808a-63a6437eae8d)
+![IMG_20241024_165822](https://github.com/user-attachments/assets/6b24abec-e384-477b-9e1d-2fa3f03443b6)
 
 - **Detailed Weather Information:** Includes additional weather parameters such as humidity, wind speed, and atmospheric pressure.
   
-![image](https://github.com/user-attachments/assets/2af5ea71-2642-44f0-a278-ff86cb01929f)
+![Screenshot 2024-10-24 165036](https://github.com/user-attachments/assets/562d86c3-eda2-4fed-a252-1b5059dd3d6e)
+
 
 - **User-Friendly Interface:** Easy-to-use search functionality to quickly get weather updates by city name.
 - **Responsive Design:** The application adjusts seamlessly across different screen sizes and devices.
